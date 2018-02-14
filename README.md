@@ -1,1 +1,1 @@
-#This repository is formed for  Assignments project.
+#This repository is formed for  Weekly_Assignments project.
